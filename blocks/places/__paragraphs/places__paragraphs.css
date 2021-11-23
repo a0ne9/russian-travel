@@ -1,0 +1,6 @@
+.places__paragraphs {
+  grid-area: paragraphs;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

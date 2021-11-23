@@ -1,0 +1,19 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 92px;
+}
+
+@media screen and (max-width: 960px) {
+  .intro {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .intro {
+    margin-top: 64px;
+  }
+}
