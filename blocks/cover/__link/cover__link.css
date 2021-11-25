@@ -6,6 +6,7 @@
   text-decoration: none;
   color: #FFFFFF;
   background-image: url(../../../images/cover-trains.jpg);
+  background-position: center;
   background-size: cover;
   min-height: 740px;
   position: relative;
@@ -16,7 +17,7 @@
   content: "";
   width: 100%;
   height: 100%;
-  background: black;
+  background: #2A2C2F;
   position: absolute;
   opacity: 0.3;
   transition: 0.2s;
@@ -35,14 +36,12 @@
 
 @media screen and (max-width: 960px) {
   .cover__link {
-    max-width: 100%;
     min-height: 480px;
   }
 }
 
 @media screen and (max-width: 540px) {
   .cover__link {
-    max-width: 100%;
     min-height: 200px;
   }
 }

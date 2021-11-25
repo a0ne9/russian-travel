@@ -1,5 +1,6 @@
 .intro__list-item {
-  font-family: Inter;
+  margin: 0;
+  font-family: Inter, Arial, Helvetica;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;

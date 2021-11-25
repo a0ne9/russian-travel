@@ -4,3 +4,9 @@
   justify-content: center;
   margin-top: 56px;
 }
+
+@media screen and (max-width: 960px) {
+  .lead {
+    margin-top: 48px;
+}
+}

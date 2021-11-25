@@ -2,6 +2,13 @@
   margin-top: 56px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 960px) {
+  .lead__figure {
+    max-width: 100%;
+  }
 }
 
 @media screen and (max-width: 540px) {
