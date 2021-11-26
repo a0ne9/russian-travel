@@ -30,7 +30,7 @@
     "website"
     "image"
     "paragraphs";
-    grid-column-gap: 32px;
+    grid-row-gap: 32px;
     margin-bottom: 50px;
   }
 }
